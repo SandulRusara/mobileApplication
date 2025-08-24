@@ -33,7 +33,7 @@ export default function StartPage(){
             </View>
 
             <View>
-                <Text style={label.firstText}>Barking Up the Best Features...</Text>
+                <Text style={label.firstText}>...</Text>
             </View>
 
             <View>
